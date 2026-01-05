@@ -42,7 +42,7 @@ To run this project locally:
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/YourUsername/learning-dashboard.git](https://github.com/YourUsername/learning-dashboard.git)
+    git clone [https://github.com/OsherBerGit/learning-dashboard.git](https://github.com/OsherBerGit/learning-dashboard.git)
     cd learning-dashboard
     ```
 2.  **Install Dependencies:**

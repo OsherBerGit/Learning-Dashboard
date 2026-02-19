@@ -1,6 +1,6 @@
 # 📚 Learning Dashboard
 
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-2b7489)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC)
 ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
 <!-- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) -->
 <!-- ![Context API](https://img.shields.io/badge/State-Context%20API-purple?style=for-the-badge) -->
